@@ -1,0 +1,90 @@
+
+/* main body */
+#mainpage {
+    background-image: url('../pic/155893.jpg');
+    background-size: 100%;
+}
+
+
+ /* h1 css */
+#id1 {
+    background-color:rgba(245, 245, 245,0.2) ;
+    font-size: 1100%;
+    font-weight: 30PX;
+    font-family: 'Butcherman';
+    padding-top: 0;
+    text-align: center;
+    color: rgba(153, 149, 149, 0.99);
+    padding-bottom: -1%;
+    margin-top: -05%; 
+    margin-bottom: 3%;
+    
+}
+
+/* menu css */
+
+
+
+/* li css */
+div ul li {display:inline-block;
+margin-left: 07%; 
+font-size: 150%;
+
+}
+
+div ul li a:link{
+    color: whitesmoke;   
+}
+div ul li a:visited{
+    color: whitesmoke;   
+}
+div ul li a:hover{
+    color: rgb(188, 252, 69);   
+}
+
+ul{
+    list-style='none'
+}
+
+
+.see {
+    color: whitesmoke;
+    width: 50%;
+    display: inline-block;
+    font-family: 'Caesar Dressing';
+    /* border-style: double; */
+    font-weight: 10px ;
+    padding: 3px;
+    margin: 0px;
+    margin-left:8%;
+    height: 60px;
+    
+
+    }
+
+    #menu{
+        color: whitesmoke;
+    width: 40%;
+    display: inline-block;
+    font-family: 'Caesar Dressing';
+    /* border-style: double; */
+    font-weight: 10px ;
+    padding: 3px;
+    margin: 0px;
+    
+    height: 60px;
+    
+        
+    } 
+
+
+
+
+#welcome{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 100px;
+    font-family: Creepster;
+    margin: 4%;
+    
+ }
